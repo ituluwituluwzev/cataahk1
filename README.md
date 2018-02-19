@@ -1,3 +1,2 @@
-# AHK for CATA
-AHK for CATA
+lint
 http://dev.narc.ro/cataclysm/format.html
